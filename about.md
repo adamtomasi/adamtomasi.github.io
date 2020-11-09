@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+#Who am I?
 
-### More Information
+I am a _second-year PhD student_ in the **World History program** at Northeastern University. 
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a huge Celtics fan, but all Boston sports are great. I chose my logo because I'm a member of the Democratic Socialists of America.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
