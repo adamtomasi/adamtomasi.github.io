@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $darkerGray;
+	background: $lightGray;
   font: 18px/1.4 $georgia;
-  color: $white;
+  color: $black;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $georgia;
-  color: $white;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: $white;
+    color: $black;
   }
 }
 
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $white;
+  color: $black;
 }
 
 p {
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $white;
+  color: $black;
   text-decoration: none;
 }
 
@@ -188,7 +188,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $white;
+  color: $black;
   font-family: $georgia;
   font-weight: 300;
   font-size: 28px;
@@ -197,7 +197,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $white;
+  color: $black;
   font-size: 16px;
 
   @include mobile {
@@ -206,7 +206,7 @@ img {
 }
 
 nav {
-  float: none;
+  float: left;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $georgia;
   font-size: 18px;
@@ -220,8 +220,8 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $white;
-    text-align: right;
+    color: $black;
+    text-align: left;
     font-weight: 300;
     letter-spacing: 1px;
 
