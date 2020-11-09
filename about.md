@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#Who am I?
+# Who am I?
 
 I am a _second-year PhD student_ in the **World History program** at Northeastern University. 
 
